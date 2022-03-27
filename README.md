@@ -1,8 +1,8 @@
 # AM Coding Challenge - Frontend (React)
 
-## The case study: Product Order Dashboard
+## The case study: Train a BERT NER Model on our Dataset
 
-![AM Order Dashboard Challenge](https://github.com/AM-code-treasure/coding-challenge-frontend-react/blob/main/Order-Dashboard-v2.png)
+![AM NLP NER Challenge](https://github.com/AM-code-treasure/coding-challenge-ai-nlp-ner/blob/main/6_business_entity_recognition.png)
 
 Monitoring their order target vs. actual orders is a typical problem for growing product businesses.
 To tackle that challenge, BLACK PRODUCTS Inc. wants to build an "order dashboard" - the software you will develop!
