@@ -16,4 +16,3 @@ Please use this dataset, clean it and train a BERT NER model with Pytorch. How y
 
 - Fork this repo
 - The challenge is on!
-- Please complete your working solution within 2 days of receiving this challenge, and be sure to notify us with a link to your repo, when it is ready for review.
